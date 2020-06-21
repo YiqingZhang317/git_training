@@ -3,3 +3,4 @@ Branching
 Merging divergent branches
 Rebasing
 Make a change on remote repo
+Make another change on remote repo to try solving pulling with conflicts
