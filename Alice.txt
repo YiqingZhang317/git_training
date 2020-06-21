@@ -5,3 +5,4 @@ Rebasing
 Make a change on remote repo
 Pulling with Conflicts
 Change something on local to create a conflict
+Make another change on remote repo to try solving pulling with conflicts
